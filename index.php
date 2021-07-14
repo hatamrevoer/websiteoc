@@ -69,7 +69,7 @@
         <div class="container">
             <div class="h-100 p-5 text-dark" style="box-shadow: 5px -3px 2px black;padding: 10px;background-color:pink;border-radius:30px;border:black solid;margin-top:10px;">
                 <h2><img src="assets/img/logo.png" title="odycraft" width="115px"> ODYCRAFT | WEBSITE <form class="form-floating">
-                        <input type="email" class="form-control" id="floatingInputValue" placeholder="name@example.com" value="IP Server: odycraft.mc-alias.com" style="background-color: pink; width: 45%;border:pink solid;">
+                        <input type="email" class="form-control" id="floatingInputValue" placeholder="name@example.com" value="IP Server: odycraft.mc-alias.com" style="background-color: pink; width: 100%;border:pink solid;">
                         <label for="floatingInputValue"></label>
                     </form>
                 </h2>

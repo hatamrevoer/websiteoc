@@ -137,9 +137,9 @@ starteffect()
 </marquee>
 </div> <form class="form-floating">
                     <h4> Update Cheat: <span id='date-time'></span> </h4>
-                        <button class="btn btn-primary" onclick="window.location.href = 'https://semawur.com/ZIKV';">DOWNLOAD CHEAT</button>
-                        <button class="btn btn-primary" onclick="window.location.href = 'https://www.youtube.com/watch?v=d5bMPpaAxnc&t=81s';">TUTORIAL MENGGUNAKAN CHEAT</button>
-                        <button class="btn btn-primary" onclick="window.location.href = 'https://www.gembelcit.net/2021/08/cheat-point-blank-10-august-2021.html';">DOWNLOAD JAMU CHEAT</button>
+                        <button class="btn btn-primary"><a href="https://semawur.com/ZIKV">Download Cheat</a></button>
+                        <button class="btn btn-primary"><a href="https://www.youtube.com/watch?v=d5bMPpaAxnc&t=81s">Tutorial Menggunakan Cheat</a></button>
+                        <button class="btn btn-primary"><a href="https://www.gembelcit.net/p/jamu-game.html">Tutorial Menggunakan Cheat</a></button>
                         <label for="floatingInputValue"></label>
                     </form>
                 </h2>

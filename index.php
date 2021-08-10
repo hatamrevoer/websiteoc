@@ -68,9 +68,9 @@
         <!-- JUMBOTRON -->
         <div class="container">
             <div class="h-100 p-5 text-dark" style="box-shadow: 5px -3px 2px black;padding: 10px;background-color:pink;border:black solid;margin-top:10px;">
-                <h2><img src="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" title="odycraft" width="55px" style="border-radius:10px;"> PREMAN-CHEAT <form class="form-floating">
-                        <input type="email" class="form-control" id="floatingInputValue" placeholder="name@example.com" value="Link Cheat: https://semawur.com/ZIKV" style="background-color: pink; width: 100%;border:pink solid;">
-                        <input type="email" class="form-control" id="floatingInputValue" placeholder="name@example.com" value="Link Jamu: https://www.gembelcit.net/p/jamu-game.html" style="background-color: pink; width: 100%;border:pink solid;">
+                <h2><img src="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" title="odycraft" width="75px" style="border-radius:10px;"> PREMAN-CHEAT <form class="form-floating">
+                        <button class="btn btn-primary" onclick="window.location.href = 'https://semawur.com/ZIKV';">DOWNLOAD CHEAT</button>
+                        <button class="btn btn-primary" onclick="window.location.href = 'https://www.gembelcit.net/2021/08/cheat-point-blank-10-august-2021.html';">DOWNLOAD JAMU CHEAT</button>
                         <label for="floatingInputValue"></label>
                     </form>
                 </h2>

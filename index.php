@@ -40,7 +40,7 @@
     <body style="background-image:url('https://images8.alphacoders.com/490/thumb-1920-490347.jpg')">
         <!-- NAVBAR ODY CRAFT -->
         <div class="container">
-            <nav class="navbar navbar-expand-lg navbar-light" style="background-color:gold;border-radius:30px;border:black solid;box-shadow: -5px 5px 2px black;padding: 10px;">
+            <nav class="navbar navbar-expand-lg navbar-light" style="background-color:gold;border:black solid;box-shadow: -5px 5px 2px black;padding: 10px;">
                 <a class="navbar-brand" href="#" style="margin-left:15px;">PREMAN-CHEAT</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" style="box-shadow: -5px -3px 2px black;padding: 10px;margin-right:16px;">
                     <span class="navbar-toggler-icon"></span>
@@ -85,7 +85,7 @@
 
         <!-- About -->
         <div class="container">
-            <div class="h-100 p-5 text-dark text-center" style="box-shadow: -5px -3px 2px black;padding: 10px;background-color:bf00ff:30px;border:black solid;margin-top:5px;">
+            <div class="h-100 p-5 text-dark text-center" style="box-shadow: -5px -3px 2px black;padding: 10px;background-color:#E600EA;border:black solid;margin-top:5px;">
                 <h4 style="color:black;">INFORMASI</h4>
                 <p style="color:black;">JIKA CHEAT TIDAK MENGALAMI ERROR SILAHKAN HUBUNGI ADMIN MELALUI MASSENGER FACEBOOK!.<br>JIKA INJECTOR MENGALAMI ERROR SILAHKAN DOWNLOAD JAMU TERLEBIH DAHULU DAN NONTON TUTORIAL DI YOUTUBE BANYAK!</p>
             </div>
@@ -94,14 +94,14 @@
 
         <!-- Support -->
         <div class="container">
-            <div class="h-100 p-5 text-dark text-center" style="box-shadow: 5px 5px 2px black;padding: 10px;background-color:rgb(159, 167, 114);border-radius:30px;border:black solid;margin-top:1px;">
+            <div class="h-100 p-5 text-dark text-center" style="box-shadow: 5px 5px 2px black;padding: 10px;background-color:rgb(159, 167, 114);border:black solid;margin-top:1px;">
                 <h4 style="color:black;margin-bottom:25px;">SUPPORT</h4>
                 <img src="https://play-lh.googleusercontent.com/IGOlY-TMU0cGW_I8EFKBkLACxPLu1TQqbqaqx7NUsGMyjNWIO1NdhwdBrq-71pUAHw" width="150px">
             </div>
         </div>
 
         <div class="container">
-            <div class="h-100 p-5 text-dark text-center" style="box-shadow: -5px 5px 2px black;padding: 10px;background-color:rgb(47, 89, 206);border-radius:30px;border:black solid;margin-top:6px;">
+            <div class="h-100 p-5 text-dark text-center" style="box-shadow: -5px 5px 2px black;padding: 10px;background-color:rgb(47, 89, 206);border:black solid;margin-top:6px;">
                 <h4 style="color:black;margin-bottom:25px;">CHEAT PRABAYAR!</h4>
                 <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/e6d6709c969b73397cd84cf77c96fa3619284d85.png" title="VIP">
                 <h4>CHEAT VIP PREMIUM</h4>
@@ -110,19 +110,19 @@
         </div>
 
         <div class="container">
-            <div class="h-100 p-5 text-dark text-center" style="box-shadow: 8px -8px 2px black;padding: 10px;background-color:rgb(72, 138, 75);border-radius:30px;border:black solid;margin-top:6px;">
+            <div class="h-100 p-5 text-dark text-center" style="box-shadow: 8px -8px 2px black;padding: 10px;background-color:rgb(72, 138, 75)border:black solid;margin-top:6px;">
                 <h4 style="color:black;margin-bottom:25px;">ADMIN PENDIRI CHEAT PREMAN-CHEAT!</h4>
                 <img src="assets/img/profil.png" title="VIP" width="225">
                 <h4>AKBAR ASAPIL</h4>
                 <p>Selamat Menikmati Cheat Preman-Cheat!!</p>
-                <h2><button class="btn btn-warning" style="box-shadow:0 0.375em 0 currentColor;border-style:solid;border-radius:10px;border-color:black solid;border:black solid;" onclick="window.location.href = 'https://www.facebook.com/profile.php?id=100068514830286';">HUBUNGI SEKARANG</button></h2>
+                <h2><button class="btn btn-warning" style="box-shadow:0 0.375em 0 currentColor;border-style:solid;border-color:black solid;border:black solid;" onclick="window.location.href = 'https://www.facebook.com/profile.php?id=100068514830286';">HUBUNGI SEKARANG</button></h2>
             </div>
         </div>
         <!-- END -->
 
         <!-- Footer -->
         <div class="container">
-            <div class="h-100 p-5 text-dark text-center" style="box-shadow: -8px -8px 2px black;padding: 10px;background-color:rgb(50, 149, 206);border-radius:30px;border:black solid;margin-top:1px;">
+            <div class="h-100 p-5 text-dark text-center" style="box-shadow: -8px -8px 2px black;padding: 10px;background-color:rgb(50, 149, 206);border:black solid;margin-top:1px;">
                 <h2 style="text-shadow: -12px -12px 3px white;font-weight: bold;">© COPYRIGHT 2021 PREMAN-CHEAT❤️ ALL RIGHT RESERVED.</h2>
             </div>
         </div>

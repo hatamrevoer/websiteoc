@@ -95,7 +95,7 @@
         <!-- Support -->
         <div class="container">
             <div class="h-100 p-5 text-dark text-center" style="box-shadow: 5px 5px 2px black;padding: 10px;background-color:rgb(159, 167, 114);border:black solid;margin-top:1px;">
-                <h4 style="color:black;margin-bottom:25px;">UPDATE <time datetime="2018--11-14 12:00"></h4>
+                <h4 style="color:black;margin-bottom:25px;">UPDATE <span id='date-time'></span></h4>
                 <img src="https://scontent.fmdc3-1.fna.fbcdn.net/v/t39.30808-6/203598227_121674500191845_1752911091456602307_n.jpg?_nc_cat=110&ccb=1-4&_nc_sid=730e14&_nc_eui2=AeHawoEASkj20MnK8G2ZBjGHLn8sNAkxRtwufyw0CTFG3BaI23bc4yPq54euibWg_QWNf8NEJ2u-Y4lWTOJ3hucy&_nc_ohc=EjfoxntMlkgAX-VeGLh&_nc_ht=scontent.fmdc3-1.fna&oh=e5c6b14f0d576eb937c86813d34922ca&oe=6117F31D" width="900px" style="border-radius:10px;">
             </div>
         </div>
@@ -136,6 +136,10 @@
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
         -->
+                <script>
+        var dt = new Date();
+        document.getElementById('date-time').innerHTML=dt;
+        </script>
     </body>
 
     </html>

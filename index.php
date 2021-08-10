@@ -95,7 +95,7 @@
         <!-- Support -->
         <div class="container">
             <div class="h-100 p-5 text-dark text-center" style="box-shadow: 5px 5px 2px black;padding: 10px;background-color:rgb(159, 167, 114);border:black solid;margin-top:1px;">
-                <h4 style="color:black;margin-bottom:25px;">SUPPORT</h4>
+                <h4 style="color:black;margin-bottom:25px;">UPDATE <time datetime="YYYY-MM-DDThh:mm:ssTZD"></h4>
                 <img src="https://scontent.fmdc3-1.fna.fbcdn.net/v/t39.30808-6/203598227_121674500191845_1752911091456602307_n.jpg?_nc_cat=110&ccb=1-4&_nc_sid=730e14&_nc_eui2=AeHawoEASkj20MnK8G2ZBjGHLn8sNAkxRtwufyw0CTFG3BaI23bc4yPq54euibWg_QWNf8NEJ2u-Y4lWTOJ3hucy&_nc_ohc=EjfoxntMlkgAX-VeGLh&_nc_ht=scontent.fmdc3-1.fna&oh=e5c6b14f0d576eb937c86813d34922ca&oe=6117F31D" width="150px" style="border-radius:10px;>
             </div>
         </div>

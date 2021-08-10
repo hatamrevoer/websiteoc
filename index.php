@@ -38,7 +38,6 @@
     </style>
 
     <body style="background-image:url('https://images.alphacoders.com/490/thumb-1920-490190.jpg')">
-        <br>
         <!-- NAVBAR ODY CRAFT -->
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light" style="background-color:gold;border:black solid;box-shadow: -5px 5px 2px black;padding: 10px;">

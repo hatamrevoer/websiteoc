@@ -38,6 +38,9 @@
     </style>
 
     <body style="background-image:url('https://images.alphacoders.com/490/thumb-1920-490190.jpg')">
+        <br>
+        <br>
+        <br>
         <!-- NAVBAR ODY CRAFT -->
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light" style="background-color:gold;border:black solid;box-shadow: -5px 5px 2px black;padding: 10px;">
@@ -69,7 +72,9 @@
         <div class="container">
             <div class="h-100 p-5 text-dark" style="box-shadow: 5px -3px 2px black;padding: 10px;background-color:pink;border:black solid;margin-top:10px;">
                 <h2><img src="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" title="odycraft" width="75px" style="border-radius:10px;"> PREMAN-CHEAT <form class="form-floating">
+                    <h2> Update Cheat: <span id='date-time'></span> </h2>
                         <button class="btn btn-primary" onclick="window.location.href = 'https://semawur.com/ZIKV';">DOWNLOAD CHEAT</button>
+                    <br>
                         <button class="btn btn-primary" onclick="window.location.href = 'https://www.gembelcit.net/2021/08/cheat-point-blank-10-august-2021.html';">DOWNLOAD JAMU CHEAT</button>
                         <label for="floatingInputValue"></label>
                     </form>
@@ -95,30 +100,10 @@
         <!-- Support -->
         <div class="container">
             <div class="h-100 p-5 text-dark text-center" style="box-shadow: 5px 5px 2px black;padding: 10px;background-color:rgb(159, 167, 114);border:black solid;margin-top:1px;">
-                <h4 style="color:black;margin-bottom:25px;">UPDATE CHEAT POINTBLANK  (<span id='date-time'></span>)</h4>
-                <img src="https://scontent.fmdc3-1.fna.fbcdn.net/v/t39.30808-6/203598227_121674500191845_1752911091456602307_n.jpg?_nc_cat=110&ccb=1-4&_nc_sid=730e14&_nc_eui2=AeHawoEASkj20MnK8G2ZBjGHLn8sNAkxRtwufyw0CTFG3BaI23bc4yPq54euibWg_QWNf8NEJ2u-Y4lWTOJ3hucy&_nc_ohc=EjfoxntMlkgAX-VeGLh&_nc_ht=scontent.fmdc3-1.fna&oh=e5c6b14f0d576eb937c86813d34922ca&oe=6117F31D" width="900px" style="border-radius:10px;">
+                <h4 style="color:black;margin-bottom:25px;">UPDATE CHEAT POINTBLANK  [ <span id='date-time'></span> ]</h4>
+                <img src="https://scontent.fmdc3-1.fna.fbcdn.net/v/t39.30808-6/203598227_121674500191845_1752911091456602307_n.jpg?_nc_cat=110&ccb=1-4&_nc_sid=730e14&_nc_eui2=AeHawoEASkj20MnK8G2ZBjGHLn8sNAkxRtwufyw0CTFG3BaI23bc4yPq54euibWg_QWNf8NEJ2u-Y4lWTOJ3hucy&_nc_ohc=EjfoxntMlkgAX-VeGLh&_nc_ht=scontent.fmdc3-1.fna&oh=e5c6b14f0d576eb937c86813d34922ca&oe=6117F31D" width="250px" style="border-radius:10px;">
             </div>
         </div>
-
-        <div class="container">
-            <div class="h-100 p-5 text-dark text-center" style="box-shadow: -5px 5px 2px black;padding: 10px;background-color:rgb(47, 89, 206);border:black solid;margin-top:6px;">
-                <h4 style="color:black;margin-bottom:25px;">CHEAT PRABAYAR!</h4>
-                <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/e6d6709c969b73397cd84cf77c96fa3619284d85.png" title="VIP">
-                <h4>CHEAT VIP PREMIUM</h4>
-                <h2><button class="btn btn-danger" onclick="window.location.href = 'https://www.facebook.com/profile.php?id=100070478875370';">BELI SEKARANG</button></h2>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="h-100 p-5 text-dark text-center" style="box-shadow: 8px -8px 2px black;padding: 10px;background-color:rgb(72, 138, 75);border:black solid;margin-top:6px;">
-                <h4 style="color:black;margin-bottom:25px;">ADMIN PENDIRI CHEAT PREMAN-CHEAT!</h4>
-                <img src="assets/img/profil.png" title="VIP" width="225">
-                <h4>AKBAR ASAPIL</h4>
-                <p>Selamat Menikmati Cheat Preman-Cheat!!</p>
-                <h2><button class="btn btn-warning" style="box-shadow:0 0.375em 0 currentColor;border-style:solid;border-color:black solid;border:black solid;" onclick="window.location.href = 'https://www.facebook.com/profile.php?id=100068514830286';">HUBUNGI SEKARANG</button></h2>
-            </div>
-        </div>
-        <!-- END -->
 
         <!-- Footer -->
         <div class="container">

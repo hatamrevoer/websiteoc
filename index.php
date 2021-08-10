@@ -68,7 +68,7 @@
         <!-- JUMBOTRON -->
         <div class="container">
             <div class="h-100 p-5 text-dark" style="box-shadow: 5px -3px 2px black;padding: 10px;background-color:pink;border:black solid;margin-top:10px;">
-                <h2><img src="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" title="odycraft" width="75px" style="border-radius:10px;"> div style="background: transparent; border: 2px solid #00000000; color: #7CFC00; font-size: 18px; font-weight: bold; letter-spacing: 0.5em; padding: 15px;">
+                <h2><img src="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" title="odycraft" width="75px" style="border-radius:10px;"> <div style="background: transparent; border: 2px solid #00000000; color: #7CFC00; font-size: 18px; font-weight: bold; letter-spacing: 0.5em; padding: 15px;">
 <marquee direction="left" scrollamount="5" align="center">
 <style typecss="[{http://galihgardhany.blogspot.com}]">
   #highlight{font: 20px Impact,Arial,Sans-Serif;}</style>

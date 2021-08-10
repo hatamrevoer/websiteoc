@@ -85,7 +85,7 @@
 
         <!-- About -->
         <div class="container">
-            <div class="h-100 p-5 text-dark text-center" style="box-shadow: -5px -3px 2px black;padding: 10px;background-color:white:30px;border:black solid;margin-top:5px;">
+            <div class="h-100 p-5 text-dark text-center" style="box-shadow: -5px -3px 2px black;padding: 10px;background-color:bf00ff:30px;border:black solid;margin-top:5px;">
                 <h4 style="color:black;">INFORMASI</h4>
                 <p style="color:black;">JIKA CHEAT TIDAK MENGALAMI ERROR SILAHKAN HUBUNGI ADMIN MELALUI MASSENGER FACEBOOK!.<br>JIKA INJECTOR MENGALAMI ERROR SILAHKAN DOWNLOAD JAMU TERLEBIH DAHULU DAN NONTON TUTORIAL DI YOUTUBE BANYAK!</p>
             </div>

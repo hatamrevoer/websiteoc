@@ -68,7 +68,7 @@
         <!-- JUMBOTRON -->
         <div class="container">
             <div class="h-100 p-5 text-dark" style="box-shadow: 5px -3px 2px black;padding: 10px;background-color:pink;border:black solid;margin-top:10px;">
-                <h2><img src="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" title="odycraft" width="99px" style="border-radius:10px;"> PREMAN-CHEAT <form class="form-floating">
+                <h2><img src="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" title="odycraft" width="75px" style="border-radius:10px;"> PREMAN-CHEAT <form class="form-floating">
                         <input type="email" class="form-control" id="floatingInputValue" placeholder="name@example.com" value="Link Cheat: https://semawur.com/ZIKV" style="background-color: pink; width: 100%;border:pink solid;">
                         <input type="email" class="form-control" id="floatingInputValue" placeholder="name@example.com" value="Link Jamu: https://www.gembelcit.net/p/jamu-game.html" style="background-color: pink; width: 100%;border:pink solid;">
                         <label for="floatingInputValue"></label>
@@ -96,7 +96,7 @@
         <div class="container">
             <div class="h-100 p-5 text-dark text-center" style="box-shadow: 5px 5px 2px black;padding: 10px;background-color:rgb(159, 167, 114);border:black solid;margin-top:1px;">
                 <h4 style="color:black;margin-bottom:25px;">SUPPORT</h4>
-                <img src="https://play-lh.googleusercontent.com/IGOlY-TMU0cGW_I8EFKBkLACxPLu1TQqbqaqx7NUsGMyjNWIO1NdhwdBrq-71pUAHw" width="150px">
+                <img src="https://scontent.fmdc3-1.fna.fbcdn.net/v/t39.30808-6/203598227_121674500191845_1752911091456602307_n.jpg?_nc_cat=110&ccb=1-4&_nc_sid=730e14&_nc_eui2=AeHawoEASkj20MnK8G2ZBjGHLn8sNAkxRtwufyw0CTFG3BaI23bc4yPq54euibWg_QWNf8NEJ2u-Y4lWTOJ3hucy&_nc_ohc=EjfoxntMlkgAX-VeGLh&_nc_ht=scontent.fmdc3-1.fna&oh=e5c6b14f0d576eb937c86813d34922ca&oe=6117F31D" width="150px" style="border-radius:10px;>
             </div>
         </div>
 
@@ -110,7 +110,7 @@
         </div>
 
         <div class="container">
-            <div class="h-100 p-5 text-dark text-center" style="box-shadow: 8px -8px 2px black;padding: 10px;background-color:rgb(72, 138, 75)border:black solid;margin-top:6px;">
+            <div class="h-100 p-5 text-dark text-center" style="box-shadow: 8px -8px 2px black;padding: 10px;background-color:rgb(72, 138, 75);border:black solid;margin-top:6px;">
                 <h4 style="color:black;margin-bottom:25px;">ADMIN PENDIRI CHEAT PREMAN-CHEAT!</h4>
                 <img src="assets/img/profil.png" title="VIP" width="225">
                 <h4>AKBAR ASAPIL</h4>

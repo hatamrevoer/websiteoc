@@ -123,7 +123,7 @@
         <!-- Footer -->
         <div class="container">
             <div class="h-100 p-5 text-dark text-center" style="box-shadow: -8px -8px 2px black;padding: 10px;background-color:rgb(50, 149, 206);border-radius:30px;border:black solid;margin-top:1px;">
-                <h2 style="text-shadow: -12px -12px 3px white;font-weight: bold;">© COPYRIGHT PREMAN-CHEAT❤️ ALL RIGHT RESERVED.</h2>
+                <h2 style="text-shadow: -12px -12px 3px white;font-weight: bold;">© COPYRIGHT 2021 PREMAN-CHEAT❤️ ALL RIGHT RESERVED.</h2>
             </div>
         </div>
         <!-- Optional JavaScript; choose one of the two! -->

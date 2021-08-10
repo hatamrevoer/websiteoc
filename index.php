@@ -39,8 +39,6 @@
 
     <body style="background-image:url('https://images.alphacoders.com/490/thumb-1920-490190.jpg')">
         <br>
-        <br>
-        <br>
         <!-- NAVBAR ODY CRAFT -->
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light" style="background-color:gold;border:black solid;box-shadow: -5px 5px 2px black;padding: 10px;">
@@ -100,7 +98,7 @@
         <!-- Support -->
         <div class="container">
             <div class="h-100 p-5 text-dark text-center" style="box-shadow: 5px 5px 2px black;padding: 10px;background-color:rgb(159, 167, 114);border:black solid;margin-top:1px;">
-                <h4 style="color:black;margin-bottom:25px;">UPDATE CHEAT POINTBLANK  [ <span id='date-time'></span> ]</h4>
+                <h4 style="color:black;margin-bottom:25px;">UPDATE CHEAT POINTBLANK  [ <span id='date-time2'></span> ]</h4>
                 <img src="https://scontent.fmdc3-1.fna.fbcdn.net/v/t39.30808-6/203598227_121674500191845_1752911091456602307_n.jpg?_nc_cat=110&ccb=1-4&_nc_sid=730e14&_nc_eui2=AeHawoEASkj20MnK8G2ZBjGHLn8sNAkxRtwufyw0CTFG3BaI23bc4yPq54euibWg_QWNf8NEJ2u-Y4lWTOJ3hucy&_nc_ohc=EjfoxntMlkgAX-VeGLh&_nc_ht=scontent.fmdc3-1.fna&oh=e5c6b14f0d576eb937c86813d34922ca&oe=6117F31D" width="250px" style="border-radius:10px;">
             </div>
         </div>
@@ -124,6 +122,11 @@
                 <script>
         var dt = new Date();
         document.getElementById('date-time').innerHTML=dt;
+        </script>
+        
+               <script>
+        var dt = new Date();
+        document.getElementById('date-time2').innerHTML=dt;
         </script>
     </body>
 

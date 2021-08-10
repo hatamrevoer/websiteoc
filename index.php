@@ -67,7 +67,7 @@
 
         <!-- JUMBOTRON -->
         <div class="container">
-            <div class="h-100 p-5 text-dark" style="box-shadow: 5px -3px 2px black;padding: 10px;background-color:pink;border-radius:30px;border:black solid;margin-top:10px;">
+            <div class="h-100 p-5 text-dark" style="box-shadow: 5px -3px 2px black;padding: 10px;background-color:pink;border:black solid;margin-top:10px;">
                 <h2><img src="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" title="odycraft" width="115px"> PREMAN-CHEAT <form class="form-floating">
                         <input type="email" class="form-control" id="floatingInputValue" placeholder="name@example.com" value="Link Cheat: https://semawur.com/ZIKV" style="background-color: pink; width: 100%;border:pink solid;">
                         <input type="email" class="form-control" id="floatingInputValue" placeholder="name@example.com" value="Link Jamu: https://www.gembelcit.net/p/jamu-game.html" style="background-color: pink; width: 100%;border:pink solid;">
@@ -105,7 +105,7 @@
                 <h4 style="color:black;margin-bottom:25px;">CHEAT PRABAYAR!</h4>
                 <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/e6d6709c969b73397cd84cf77c96fa3619284d85.png" title="VIP">
                 <h4>CHEAT VIP PREMIUM</h4>
-                <h2><button class="btn btn-danger" onclick="window.location.href = 'https://www.facebook.com/tanamanliar.007';>BELI SEKARANG</button></h2>
+                <h2><button class="btn btn-danger" onclick="window.location.href = 'https://www.facebook.com/profile.php?id=100070478875370';">BELI SEKARANG</button></h2>
             </div>
         </div>
 

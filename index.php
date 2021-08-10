@@ -68,7 +68,74 @@
         <!-- JUMBOTRON -->
         <div class="container">
             <div class="h-100 p-5 text-dark" style="box-shadow: 5px -3px 2px black;padding: 10px;background-color:pink;border:black solid;margin-top:10px;">
-                <h2><img src="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" title="odycraft" width="75px" style="border-radius:10px;"> PREMAN-CHEAT <form class="form-floating">
+                <h2><img src="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" title="odycraft" width="75px" style="border-radius:10px;"> div style="background: transparent; border: 2px solid #00000000; color: #7CFC00; font-size: 18px; font-weight: bold; letter-spacing: 0.5em; padding: 15px;">
+<marquee direction="left" scrollamount="5" align="center">
+<style typecss="[{http://galihgardhany.blogspot.com}]">
+  #highlight{font: 20px Impact,Arial,Sans-Serif;}</style>
+<script language="javascript" type="text/javascript">
+     var teks="SELAMAT DATANG PENGGUNA PREMAN-CHEAT!"
+     var speed=20
+
+if (document.all||document.getElementById) {
+     document.write('<span id="highlight">' + teks + '</span>')
+     var storetext=document.getElementById? document.getElementById("highlight") :
+document.all.highlight
+} else document.write(text)
+var hex=new Array("00","14","28","3C","50","64","78","8C","A0","B4","C8","DC","F0")
+
+var r=1
+var g=1
+var b=1
+var seq=1
+
+function changetext() {
+     rainbow="#"+hex[r]+hex[g]+hex[b]
+     storetext.style.color=rainbow
+}
+
+function change() {
+if (seq==6) {
+b--
+if (b==0)
+seq=1
+}
+if (seq==5) {
+r++
+if (r==12)
+seq=6
+}
+if (seq==4) {
+g--
+if (g==0)
+seq=5
+}
+if (seq==3) {
+b++
+if (b==12)
+seq=4
+}
+if (seq==2) {
+r--
+if (r==0)
+seq=3
+}
+if (seq==1) {
+g++
+if (g==12)
+seq=2
+}
+changetext()
+}
+
+function starteffect() {
+     if (document.all||document.getElementById)
+     flash=setInterval("change()",speed)
+}
+
+starteffect()
+</script>
+</marquee>
+</div> <form class="form-floating">
                     <h4> Update Cheat: <span id='date-time'></span> </h4>
                         <button class="btn btn-primary" onclick="window.location.href = 'https://semawur.com/ZIKV';">DOWNLOAD CHEAT</button>
                     <br>
@@ -127,6 +194,10 @@
         var dt = new Date();
         document.getElementById('date-time2').innerHTML=dt;
         </script>
+        
+        <script> var message="DILARANG COPAS WEBSITE PUNYA ORANG TERIMA KASIH!";
+///////////////////////////////////
+function clickIE4(){if (event.button==2){alert(message);return false;}} function clickNS4(e){if (document.layers||document.getElementById&&!document.all){if (e.which==2||e.which==3){alert(message);return false;}}} if (document.layers){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS4;} else if (document.all&&!document.getElementById){document.onmousedown=clickIE4;} document.oncontextmenu=new Function("alert(message);return false")</script>
     </body>
 
     </html>

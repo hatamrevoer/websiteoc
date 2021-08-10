@@ -11,8 +11,8 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <!-- Bootstrap CSS -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-        <link href="assets/img/logo.png" rel="icon">
-        <title>OC Website</title>
+        <link href="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" rel="icon">
+        <title>PREMAN-CHEATERS</title>
     </head>
     <style>
         body {
@@ -37,11 +37,11 @@
         }
     </style>
 
-    <body>
+    <body style="background-image:url('https://images8.alphacoders.com/490/thumb-1920-490347.jpg')>
         <!-- NAVBAR ODY CRAFT -->
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light" style="background-color:gold;border-radius:30px;border:black solid;box-shadow: -5px 5px 2px black;padding: 10px;">
-                <a class="navbar-brand" href="#" style="margin-left:15px;">ODYCRAFT</a>
+                <a class="navbar-brand" href="#" style="margin-left:15px;">PREMAN-CHEAT</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" style="box-shadow: -5px -3px 2px black;padding: 10px;margin-right:16px;">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -51,10 +51,10 @@
                             <a class="nav-link active" aria-current="page" href="index.php" style="margin-left:15px;">BERANDA</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://www.facebook.com/profile.php?id=100068514830286" style="margin-left:15px;">FACEBOOK</a>
+                            <a class="nav-link" href="https://www.facebook.com/profile.php?id=100070478875370" style="margin-left:15px;">FACEBOOK</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://topminecraftservers.org/" style="margin-left:15px;">TOP MINECRAFT</a>
+                            <a class="nav-link" href="https://www.youtube.com/channel/UCU9-EZompUKuru4dCqOeTOQ" style="margin-left:15px;">YOUTUBE</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" style="margin-left:15px;">DISABLED</a>
@@ -68,13 +68,14 @@
         <!-- JUMBOTRON -->
         <div class="container">
             <div class="h-100 p-5 text-dark" style="box-shadow: 5px -3px 2px black;padding: 10px;background-color:pink;border-radius:30px;border:black solid;margin-top:10px;">
-                <h2><img src="assets/img/logo.png" title="odycraft" width="115px"> ODYCRAFT | WEBSITE <form class="form-floating">
-                        <input type="email" class="form-control" id="floatingInputValue" placeholder="name@example.com" value="IP Server: odycraft.mc-alias.com" style="background-color: pink; width: 100%;border:pink solid;">
+                <h2><img src="https://lh3.googleusercontent.com/proxy/fG3ZS7qGoG4xILwRiBGqCTs1XSpNo7rv4igWMY7eMXYXQ5qWFGH2bjtViPDmGsdzhZRf5i7lwRXRW24Yx-NXFwig_04xcx_4o_g9Rrvl0csJ6yd43pplocyky0j9vTamXlE82jHU34s5UA" title="odycraft" width="115px"> PREMAN-CHEAT <form class="form-floating">
+                        <input type="email" class="form-control" id="floatingInputValue" placeholder="name@example.com" value="Link Cheat: https://semawur.com/ZIKV" style="background-color: pink; width: 100%;border:pink solid;">
+                        <input type="email" class="form-control" id="floatingInputValue" placeholder="name@example.com" value="Link Jamu: https://www.gembelcit.net/p/jamu-game.html" style="background-color: pink; width: 100%;border:pink solid;">
                         <label for="floatingInputValue"></label>
                     </form>
                 </h2>
                 <p>SOSIAL MEDIAKU!.</p>
-                <i style="font-size:24px" class="fa" onclick="window.location.href = 'https://www.facebook.com/profile.php?id=100068514830286';">&#xf09a;</i>
+                <i style="font-size:24px" class="fa" onclick="window.location.href = 'https://www.facebook.com/profile.php?id=100070478875370';">&#xf09a;</i>
                 <i style="font-size:24px" class="fa" onclick="window.location.href = 'https://github.com/hatamrevoer';">&#xf09b;</i>
                 <i style="font-size:24px" class="fa" onclick="window.location.href = 'https://www.instagram.com/golda_s4ns/';">&#xf16d;</i>
                 <!-- tempat icon -->
@@ -84,9 +85,9 @@
 
         <!-- About -->
         <div class="container">
-            <div class="h-100 p-5 text-dark text-center" style="box-shadow: -5px -3px 2px black;padding: 10px;background-color:rgb(75, 82, 75);border-radius:30px;border:black solid;margin-top:5px;">
-                <h4 style="color:black;">TENTANG OC!</h4>
-                <p style="color:black;">ODY CRAFT ADALAH SERVER GAME MINECRAFT YANG SUDAH TERSEDIA SEJAK TAHUN 2017.<br>SERVER ODY CRAFT HANYA BISA DIMAINKAN DI MINECRAFT JAVA KOMPUTER ATAU LAPTOP!</p>
+            <div class="h-100 p-5 text-dark text-center" style="box-shadow: -5px -3px 2px black;padding: 10px;background-color:white:30px;border:black solid;margin-top:5px;">
+                <h4 style="color:black;">INFORMASI</h4>
+                <p style="color:black;">JIKA CHEAT TIDAK MENGALAMI ERROR SILAHKAN HUBUNGI ADMIN MELALUI MASSENGER FACEBOOK!.<br>JIKA INJECTOR MENGALAMI ERROR SILAHKAN DOWNLOAD JAMU TERLEBIH DAHULU DAN NONTON TUTORIAL DI YOUTUBE BANYAK!</p>
             </div>
         </div>
         <!-- END ABOUT -->
@@ -95,30 +96,25 @@
         <div class="container">
             <div class="h-100 p-5 text-dark text-center" style="box-shadow: 5px 5px 2px black;padding: 10px;background-color:rgb(159, 167, 114);border-radius:30px;border:black solid;margin-top:1px;">
                 <h4 style="color:black;margin-bottom:25px;">SUPPORT</h4>
-                <i style="font-size:35px" class="fa" title="Minecraft">&#xf1b3;</i>
-                <i style="font-size:35px" class="fa" title="Data">&#xf0ae;</i>
-                <i style="font-size:35px" class="fa" title="wifi">&#xf1eb;</i>
-                <i style="font-size:35px" class="fa" title="Lan">&#xf0e8;</i>
-                <i style="font-size:35px" class="fa" title="Server">&#xf233;</i>
-                <i style="font-size:35px" class="fa" title="Chip">&#xf2db;</i>
+                <img src="https://play-lh.googleusercontent.com/IGOlY-TMU0cGW_I8EFKBkLACxPLu1TQqbqaqx7NUsGMyjNWIO1NdhwdBrq-71pUAHw" width="150px">
             </div>
         </div>
 
         <div class="container">
             <div class="h-100 p-5 text-dark text-center" style="box-shadow: -5px 5px 2px black;padding: 10px;background-color:rgb(47, 89, 206);border-radius:30px;border:black solid;margin-top:6px;">
-                <h4 style="color:black;margin-bottom:25px;">DAFTAR RANK</h4>
+                <h4 style="color:black;margin-bottom:25px;">CHEAT PRABAYAR!</h4>
                 <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/e6d6709c969b73397cd84cf77c96fa3619284d85.png" title="VIP">
-                <h4>VIP Rank [Lifetime]</h4>
-                <h2><button class="btn btn-danger">BELI SEKARANG</button></h2>
+                <h4>CHEAT VIP PREMIUM</h4>
+                <h2><button class="btn btn-danger" onclick="window.location.href = 'https://www.facebook.com/tanamanliar.007';>BELI SEKARANG</button></h2>
             </div>
         </div>
 
         <div class="container">
             <div class="h-100 p-5 text-dark text-center" style="box-shadow: 8px -8px 2px black;padding: 10px;background-color:rgb(72, 138, 75);border-radius:30px;border:black solid;margin-top:6px;">
-                <h4 style="color:black;margin-bottom:25px;">CEO & OWNER</h4>
+                <h4 style="color:black;margin-bottom:25px;">ADMIN PENDIRI CHEAT PREMAN-CHEAT!</h4>
                 <img src="assets/img/profil.png" title="VIP" width="225">
-                <h4>Ahmad Akbar Khatami Asapil</h4>
-                <p>Menjadi seseorang yang pantas buat seseorang!</p>
+                <h4>AKBAR ASAPIL</h4>
+                <p>Selamat Menikmati Cheat Preman-Cheat!!</p>
                 <h2><button class="btn btn-warning" style="box-shadow:0 0.375em 0 currentColor;border-style:solid;border-radius:10px;border-color:black solid;border:black solid;" onclick="window.location.href = 'https://www.facebook.com/profile.php?id=100068514830286';">HUBUNGI SEKARANG</button></h2>
             </div>
         </div>
@@ -127,7 +123,7 @@
         <!-- Footer -->
         <div class="container">
             <div class="h-100 p-5 text-dark text-center" style="box-shadow: -8px -8px 2px black;padding: 10px;background-color:rgb(50, 149, 206);border-radius:30px;border:black solid;margin-top:1px;">
-                <h2 style="text-shadow: -12px -12px 3px white;font-weight: bold;">© COPYRIGHT ODYCRAFT❤️ ALL RIGHT RESERVED.</h2>
+                <h2 style="text-shadow: -12px -12px 3px white;font-weight: bold;">© COPYRIGHT PREMAN-CHEAT❤️ ALL RIGHT RESERVED.</h2>
             </div>
         </div>
         <!-- Optional JavaScript; choose one of the two! -->

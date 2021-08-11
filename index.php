@@ -167,6 +167,7 @@ starteffect()
             <div class="h-100 p-5 text-dark text-center" style="box-shadow: 5px 5px 2px black;padding: 10px;background-color:rgb(159, 167, 114);border:black solid;margin-top:1px;">
                 <h4 style="color:black;margin-bottom:25px;">UPDATE CHEAT POINTBLANK  [ <span id='date-time2'></span> ]</h4>
                 <img src="https://scontent.fmdc3-1.fna.fbcdn.net/v/t39.30808-6/203598227_121674500191845_1752911091456602307_n.jpg?_nc_cat=110&ccb=1-4&_nc_sid=730e14&_nc_eui2=AeHawoEASkj20MnK8G2ZBjGHLn8sNAkxRtwufyw0CTFG3BaI23bc4yPq54euibWg_QWNf8NEJ2u-Y4lWTOJ3hucy&_nc_ohc=EjfoxntMlkgAX-VeGLh&_nc_ht=scontent.fmdc3-1.fna&oh=e5c6b14f0d576eb937c86813d34922ca&oe=6117F31D" width="250px" style="border-radius:10px;">
+                <img src="https://scontent.fmdc3-1.fna.fbcdn.net/v/t39.30808-6/p843x403/236613328_122034373489191_7278041785251562695_n.jpg?_nc_cat=109&ccb=1-4&_nc_sid=730e14&_nc_eui2=AeG_-Z442e4sX7gTMLeMwdQdhR0xhGoNm_GFHTGEag2b8QJnXqOnFtA50-CgTcoDTutZ7Syo02NwxkWzGzrroQNl&_nc_ohc=7q_f7hBILDAAX_uYUkg&_nc_ht=scontent.fmdc3-1.fna&oh=b9bc11d7e904f53b23ef47689c76291f&oe=6118A01E" width="250px" style="border-radius:10px;">
             </div>
         </div>
 

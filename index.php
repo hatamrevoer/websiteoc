@@ -68,7 +68,7 @@
         <!-- JUMBOTRON -->
         <div class="container">
             <div class="h-100 p-5 text-dark" style="box-shadow: 5px -3px 2px black;padding: 10px;background-color:pink;border:black solid;margin-top:10px;">
-                <h2><img src="https://cdn.freebiesupply.com/logos/large/2x/pc-engine-logo-png-transparent.png" title="odycraft" width="75px" style="border-radius:10px; <form class="form-floating">
+                <h2><img src="https://cdn.freebiesupply.com/logos/large/2x/pc-engine-logo-png-transparent.png" title="odycraft" width="155px" style="border-radius:10px; <form class="form-floating">
                     <div style="background: transparent; border: 2px solid #00000000; color: #7CFC00; font-size: 18px; font-weight: bold; letter-spacing: 0.5em; padding: 15px;">
 <marquee direction="left" scrollamount="5" align="center">
 <style typecss="[{http://galihgardhany.blogspot.com}]">
